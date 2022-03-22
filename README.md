@@ -17,4 +17,4 @@ El tree que he creat jo, és el següent: <br>
 ### 4.- Muestra el contenido de la carpeta PROG
 ![image](https://user-images.githubusercontent.com/91566044/159564192-7a54b1a2-281b-4656-b406-7d3406244801.png)
 
-###
+### 5.- Borra la carpeta PASCAL
